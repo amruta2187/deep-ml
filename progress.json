@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-10-22T09:52:15.873Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-01-13T09:07:39.090Z",
+      "last_pushed_at": "2026-01-13T09:07:39.090Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-01-13T09:12:19.555Z",
+      "last_pushed_at": "2026-01-13T09:12:19.555Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-01-13T09:29:33.949Z",
+      "last_pushed_at": "2026-01-13T09:29:33.949Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-01-13T09:41:46.652Z",
+      "last_pushed_at": "2026-01-13T09:41:46.652Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-01-13T09:49:24.293Z",
+      "last_pushed_at": "2026-01-13T09:49:24.293Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-01-13T12:06:25.030Z",
+      "last_pushed_at": "2026-01-13T12:06:25.030Z",
+      "language": "python",
+      "lines": 23
+    }
+  }
+}
