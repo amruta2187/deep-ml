@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:52:15.873Z",
+  "generated_at": "2026-10-22T09:52:18.683Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,32 @@
       "last_pushed_at": "2026-01-13T12:06:25.030Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-01-19T11:22:09.600Z",
+      "last_pushed_at": "2026-01-19T11:22:09.600Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-01-19T12:41:45.981Z",
+      "last_pushed_at": "2026-01-19T12:41:45.981Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
