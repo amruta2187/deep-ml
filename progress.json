@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:52:18.683Z",
+  "generated_at": "2026-10-22T09:52:21.048Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -104,6 +104,45 @@
       "last_pushed_at": "2026-01-19T12:41:45.981Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-06-10T09:01:25.264Z",
+      "last_pushed_at": "2026-06-10T09:01:25.264Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-06-10T09:04:19.127Z",
+      "last_pushed_at": "2026-06-10T09:04:19.127Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:98": {
+      "kind": "problem",
+      "id": "98",
+      "title": "Implement PReLU Forward and Backward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/98",
+      "path": "problems/0098-implement-prelu-forward-and-backward-pass",
+      "first_solved_at": "2026-06-10T10:51:51.996Z",
+      "last_pushed_at": "2026-06-10T10:51:51.996Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
