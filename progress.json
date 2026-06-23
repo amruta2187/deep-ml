@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:52:25.438Z",
+  "generated_at": "2026-10-22T09:52:27.899Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,58 @@
       "last_pushed_at": "2026-06-22T04:10:17.313Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-06-23T11:18:04.947Z",
+      "last_pushed_at": "2026-06-23T11:18:04.947Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-06-23T11:45:21.912Z",
+      "last_pushed_at": "2026-06-23T11:45:21.912Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-06-23T11:56:18.154Z",
+      "last_pushed_at": "2026-06-23T11:56:18.154Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-06-23T12:24:37.114Z",
+      "last_pushed_at": "2026-06-23T12:24:37.114Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
