@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:52:27.899Z",
+  "generated_at": "2026-10-22T09:52:29.963Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,123 @@
       "last_pushed_at": "2026-06-23T12:24:37.114Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-06-24T02:21:45.929Z",
+      "last_pushed_at": "2026-06-24T02:21:45.929Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-06-24T08:09:09.645Z",
+      "last_pushed_at": "2026-06-24T08:09:09.645Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:398": {
+      "kind": "problem",
+      "id": "398",
+      "title": "DDIM Deterministic Sampling Step",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/398",
+      "path": "problems/0398-ddim-deterministic-sampling-step",
+      "first_solved_at": "2026-06-24T09:44:38.439Z",
+      "last_pushed_at": "2026-06-24T09:44:38.439Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-06-24T10:10:26.917Z",
+      "last_pushed_at": "2026-06-24T10:10:26.917Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-06-24T10:55:40.265Z",
+      "last_pushed_at": "2026-06-24T10:55:40.265Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-06-24T12:06:52.193Z",
+      "last_pushed_at": "2026-06-24T12:06:52.193Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-06-24T13:42:36.924Z",
+      "last_pushed_at": "2026-06-24T13:42:36.924Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-06-24T13:48:26.988Z",
+      "last_pushed_at": "2026-06-24T13:48:26.988Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-06-24T15:19:13.965Z",
+      "last_pushed_at": "2026-06-24T15:19:13.965Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
