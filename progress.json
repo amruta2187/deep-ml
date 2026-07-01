@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:52:29.963Z",
+  "generated_at": "2026-10-22T09:52:32.513Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -351,6 +351,45 @@
       "last_pushed_at": "2026-06-24T15:19:13.965Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-07-01T10:13:32.808Z",
+      "last_pushed_at": "2026-07-01T10:13:32.808Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-07-01T10:41:58.395Z",
+      "last_pushed_at": "2026-07-01T10:41:58.395Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-01T10:59:50.257Z",
+      "last_pushed_at": "2026-07-01T10:59:50.257Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
