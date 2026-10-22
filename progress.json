@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:58:06.061Z",
+  "generated_at": "2026-10-22T12:40:53.783Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -625,6 +625,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-10-22T11:58:05.421Z",
       "last_pushed_at": "2026-10-22T11:58:05.421Z"
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2026-10-22T12:40:52.893Z",
+      "last_pushed_at": "2026-10-22T12:40:52.893Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }

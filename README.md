@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 43 problems · 0 labs · 6 math
+**50** solved · 44 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [DDIM Deterministic Sampling Step](https://www.deep-ml.com/problems/398) | medium | 2026-06-24 | [solution](problems/0398-ddim-deterministic-sampling-step) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-06-10 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-22 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-24 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-06-22 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
 
