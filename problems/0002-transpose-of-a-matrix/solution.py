@@ -10,7 +10,4 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     """
     import numpy as np
 
-    matrix = np.array(a)
-    return matrix.T
-    # Your code here
-    
+    return np.transpose(a)
