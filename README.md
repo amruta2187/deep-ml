@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 43 problems · 0 labs · 0 math
+**44** solved · 43 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-06-10 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-24 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-06-22 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-22 | [solution](math/0007-vector-operations) |
 
 ---
 
